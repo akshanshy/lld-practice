@@ -1,4 +1,4 @@
-# lld-practice
+
 # LLD Practice
 
 A collection of my **Low-Level Design (LLD)** practice in C++, focused on building strong object-oriented design skills and preparing for software engineering interviews.
